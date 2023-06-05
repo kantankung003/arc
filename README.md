@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+ultralytics 8.0.229 add model.embed() method (#7098)
