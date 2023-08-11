@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update CITATION.cff with cffinit corrections (#8658)
