@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Updated SQL Query Plot Code (#8120)
