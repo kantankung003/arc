@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add Weights & Biases Docs integrations page (#7199)
