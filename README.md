@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add docstrings to new HUB functions (#7576)
